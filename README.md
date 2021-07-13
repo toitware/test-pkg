@@ -1,2 +1,2 @@
 # test-pkg
-Repository used for testing packages
+Repository used for testing packages.
