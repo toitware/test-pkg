@@ -1,0 +1,6 @@
+name: local_dep 
+description: nested package local_dep with local dependency
+license: MIT
+dependencies:
+  local:
+    path: some/path
